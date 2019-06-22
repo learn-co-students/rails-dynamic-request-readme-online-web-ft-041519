@@ -1,4 +1,4 @@
-require 'rails_helper'
+require 'rails_helper' #1. start by writing a test to verify that the page exists
 
 describe 'navigate' do
   before do
